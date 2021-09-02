@@ -42,9 +42,9 @@
 # Features 🔌
 
 - Authentication
-- Add an number of tracks
-- Fetch Track details anytime which are saved
-- Record distance by Start and Stop feature. 
+- Display diagnostics
+- Fetch Track details
+- Allowing users to track the Bot's pick-up and drop-off position
 
 # Technologies used 🛠️
 
